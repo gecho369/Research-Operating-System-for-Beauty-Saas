@@ -1,18 +1,6 @@
-# Índice de la base de conocimiento
+# Índice del conocimiento
 
-Listado maestro de todas las entradas validadas en `knowledge/`. Se actualiza cada vez que
-se agrega, actualiza o archiva una entrada (ver `docs/research/WORKFLOW.md`, paso 5).
+Punto de entrada al conocimiento consolidado.
+Contiene enlaces organizados. No duplica contenido.
 
-| Dominio | Entrada | Estado | Última actualización |
-|---|---|---|---|
-| _(vacío)_ | | | |
-
-## Por dominio
-- [Market](market/)
-- [Operations](operations/)
-- [Customers](customers/)
-- [Competitors](competitors/)
-- [Automation](automation/)
-- [AI](ai/)
-- [Architecture](architecture/)
-- [Product](product/)
+_(Sin entradas todavía.)_
